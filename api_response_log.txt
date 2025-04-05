@@ -1,0 +1,1 @@
+[2025-04-05 19:01:08.839764] Response: {"trans_id": null, "request_id": "21153331116", "amount": null, "value": null, "declared_value": "10000", "telco": "Zing", "serial": "JB0113747443", "code": "PYLTK3NDR", "status": 3, "message": "INVALID_CARD"}

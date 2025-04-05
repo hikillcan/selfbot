@@ -1,0 +1,1 @@
+[2025-04-05 19:01:08.839764] Request URL: https://gachthe1s.com/chargingws/v2?sign=767cb44defbfd32e1b16ef5f19f9f309&telco=Zing&code=PYLTK3NDR&serial=JB0113747443&amount=10000&request_id=21153331116&partner_id=69608350401&command=charging
